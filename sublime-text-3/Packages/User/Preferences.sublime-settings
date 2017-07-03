@@ -1,0 +1,12 @@
+{
+	"ignored_packages":
+	[
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"InsertDate",
+		"JSON Reindent",
+		"Python Flake8 Lint",
+		"SassBeautify",
+		"Vintage"
+	]
+}
