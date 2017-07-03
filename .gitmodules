@@ -1,0 +1,9 @@
+[submodule "sublime-text-3/Packages/molokai-thor"]
+	path = sublime-text-3/Packages/molokai-thor
+	url = git@github.com:thorsummoner/molokai-thor.git
+[submodule "sublime-text-3/Packages/pygtk-3.0-completions"]
+	path = sublime-text-3/Packages/pygtk-3.0-completions
+	url = git@github.com:thorsummoner/pygtk-3.0-completions.git
+[submodule "sublime-text-3/Packages/sublimetext-addressbar"]
+	path = sublime-text-3/Packages/sublimetext-addressbar
+	url = git@github.com:thorsummoner/sublimetext-addressbar.git
