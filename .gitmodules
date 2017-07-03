@@ -7,3 +7,9 @@
 [submodule "sublime-text-3/Packages/sublimetext-addressbar"]
 	path = sublime-text-3/Packages/sublimetext-addressbar
 	url = git@github.com:thorsummoner/sublimetext-addressbar.git
+[submodule "sublime-text-3/Packages/Jedi - Python autocompletion"]
+	path = sublime-text-3/Packages/Jedi - Python autocompletion
+	url = git@github.com:srusskih/SublimeJEDI.git
+[submodule "sublime-text-3/Packages/SublimeAllAutocomplete"]
+	path = sublime-text-3/Packages/SublimeAllAutocomplete
+	url = git@github.com:alienhard/SublimeAllAutocomplete.git
